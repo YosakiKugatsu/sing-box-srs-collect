@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain": [
+        "fpinit.itunes.apple.com",
+        "cdn-h3.g.aaplimg.com",
         "3gppnetwork.org",
         "adguardteam.github.io",
         "adrules.top",
